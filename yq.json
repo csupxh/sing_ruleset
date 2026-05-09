@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+	"yuque.com",
+	"alilang-intranet.alibaba-inc.com"
+      ]
+    }
+  ]
+}
