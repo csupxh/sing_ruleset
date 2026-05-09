@@ -3,12 +3,12 @@
   "rules": [
     {
       "domain_suffix": [
-        ".alicdn.com",
-        ".alipay.com",
-        ".alipay.net",
-	".alibaba-inc.com",
-	".antgroup-inc.cn",
-        ".alipayobjects.com"
+        "alicdn.com",
+        "alipay.com",
+        "alipay.net",
+	"alibaba-inc.com",
+	"antgroup-inc.cn",
+        "alipayobjects.com"
       ],
       "domain_keyword": [
         "alipay",
