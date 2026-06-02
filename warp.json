@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "capitalone.com",
+        "medallia.com",
+        "dewrain.life",
+	"kvaedit.site",
+	"cmedallia.com",
+        "newrelic.com"
+      ],
+      "domain_keyword": [
+        "capitalone"
+      ]
+    }
+  ]
+}
