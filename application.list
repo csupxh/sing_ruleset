@@ -1,2 +1,8 @@
 PROCESS-NAME,DingTalk
 PROCESS-NAME,DingTalk.exe
+PROCESS-NAME,clash-verge
+PROCESS-NAME,clash-verge.exe
+PROCESS-NAME,verge-mihomo
+PROCESS-NAME,verge-mihomo.exe
+PROCESS-NAME,clash-verge-service
+PROCESS-NAME,clash-verge-service.exe

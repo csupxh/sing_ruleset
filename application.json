@@ -4,7 +4,13 @@
     {
       "process_name": [
         "DingTalk",
-        "DingTalk.exe"
+        "DingTalk.exe",
+        "clash-verge",
+        "clash-verge.exe",
+        "verge-mihomo",
+        "verge-mihomo.exe",
+        "clash-verge-service",
+        "clash-verge-service.exe"
       ]
     }
   ]
