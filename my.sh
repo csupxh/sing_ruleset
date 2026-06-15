@@ -22,6 +22,9 @@ to_rules() {
       ),
       (
         values("ip_cidr") | "IP-CIDR," + .
+      ),
+      (
+        values("process_name") | "PROCESS-NAME," + .
       )
   ' "$json"
 }
